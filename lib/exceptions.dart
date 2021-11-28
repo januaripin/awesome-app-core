@@ -4,11 +4,3 @@ class ServerException implements Exception {
   final int code;
   final String message;
 }
-
-class NoConnectionException implements Exception {
-  NoConnectionException({
-    this.message = 'Please check your connection internet!',
-  });
-
-  final String message;
-}
