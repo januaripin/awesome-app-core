@@ -1,4 +1,3 @@
-import 'package:core/app_colors.dart';
 import 'package:flutter/material.dart';
 
 /// Spacer with 8 rule
